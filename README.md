@@ -11,3 +11,9 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+## If you plan to use or adapt this code, please cite the Open Science Framework project: https://osf.io/y6meq/
+
+The scripts on the OSF project and this repository are nearly identical. The one change is that the OSF project uses a series of setwd() commands for accessibility to new R users, while this is structured like a project. Use whatever format you prefer! No matter which ones you use, please cite the OSF project.
+
+I am always open to comments and revisions. Get in touch!
