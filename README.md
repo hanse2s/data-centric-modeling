@@ -31,7 +31,7 @@ I am always open to comments and revisions. Get in touch!
   * SDM9_DelineateLargeScale
  
 * data
-  * If you use or adapt the Michigan European frog-bit dataset itself, cite the published [GBIF version of it](https://www.gbif.org/dataset/71454d8a-6e9c-49f5-bf37-353f9ad2e2b9), not this one.
+  * If you use or adapt the European frog-bit dataset itself, cite the published [GBIF version of it](https://www.gbif.org/dataset/71454d8a-6e9c-49f5-bf37-353f9ad2e2b9), not this one.
 
  * figures
 
