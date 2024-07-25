@@ -1,0 +1,11 @@
+Model class	Model type	0.7_mich_presence-background_all	0.7_mich_presence-background_specimen	0.7_mich_presence-background_observation	0.7_sag_presence-background_all	0.7_sag_presence-absence_all	0.5_mich_presence-background_all	0.5_mich_presence-background_specimen	0.5_mich_presence-background_observation
+Machine learning	ANN	NA	Var	Obs	NA	Obs *	Obs	Var	NA
+Machine learning	BRT	Obs *	Obs	Obs *	Obs *	NA	Obs *	NA	Obs *
+Machine learning	Cforest	Obs *	Obs	Obs	Obs	Var	Obs *	Obs	Obs *
+Machine learning	RF	Obs *	Var	Obs *	Obs	Var	Obs *	Var	Obs *
+Machine learning	XGBoost	Obs *	Var	Obs	Obs	Var	Obs *	Var	Obs *
+Regression	GAM	Obs *	NA	Obs *	Var	NA	Obs *	Var	Obs
+Regression	GLM	Obs *	Var	Obs *	Obs	Var	Obs *	Var	Obs *
+Regression	MARS	Obs *	Var *	Obs *	Obs	Obs	Obs *	Obs	Obs *
+Regression	MaxEnt	Obs *	Var	Obs *	Obs	Var	Obs *	Var	Obs *
+Regression	MaxNet	Obs *	Var	Obs *	Obs	Obs	Obs *	Var	Obs *

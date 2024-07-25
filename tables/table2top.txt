@@ -1,0 +1,11 @@
+Model class	Model type	mich_all_presence-background	mich_specimen_presence-background	mich_observation_presence-background
+Machine learning	ANN	0.5	0.5	0.5
+Machine learning	BRT	0.7	0.7	0.7
+Machine learning	Cforest	0.5	0.5	0.5
+Machine learning	RF	0.7	0.5	0.7
+Machine learning	XGBoost	0.7	0.7	0.7
+Regression	GAM	0.7	NA	0.7
+Regression	GLM	0.7	0.7	0.5
+Regression	MARS	0.7	0.7	0.7
+Regression	MaxEnt	0.7	0.7	0.7
+Regression	MaxNet	0.7	0.7	0.7
