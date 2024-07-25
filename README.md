@@ -12,7 +12,7 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-## If you plan to use or adapt this code, please cite the Open Science Framework project: https://osf.io/y6meq/
+## If you use or adapt this code, please cite the Open Science Framework project: https://osf.io/y6meq/
 
 The scripts on the OSF project and this repository are nearly identical. The one change is that the OSF project uses a series of setwd() commands for accessibility to new R users, while this is structured like a project. Use whatever format you prefer! No matter which one you use, please cite the OSF project.
 
@@ -31,7 +31,7 @@ I am always open to comments and revisions. Get in touch!
   * SDM9_DelineateLargeScale
  
 * data
-  * If you choose to use the Michigan European frog-bit dataset for anything else, cite the [GBIF version of it](https://www.gbif.org/dataset/71454d8a-6e9c-49f5-bf37-353f9ad2e2b9), not this one.
+  * If you use or adapt the Michigan European frog-bit dataset itself, cite the published [GBIF version of it](https://www.gbif.org/dataset/71454d8a-6e9c-49f5-bf37-353f9ad2e2b9), not this one.
 
  * figures
 
