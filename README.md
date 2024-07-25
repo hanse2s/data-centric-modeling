@@ -14,6 +14,6 @@ This work is licensed under a
 
 ## If you plan to use or adapt this code, please cite the Open Science Framework project: https://osf.io/y6meq/
 
-The scripts on the OSF project and this repository are nearly identical. The one change is that the OSF project uses a series of setwd() commands for accessibility to new R users, while this is structured like a project. Use whatever format you prefer! No matter which ones you use, please cite the OSF project.
+The scripts on the OSF project and this repository are nearly identical. The one change is that the OSF project uses a series of setwd() commands for accessibility to new R users, while this is structured like a project. Use whatever format you prefer! No matter which one you use, please cite the OSF project.
 
 I am always open to comments and revisions. Get in touch!
