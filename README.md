@@ -1,7 +1,5 @@
 # DataCentricSDM
 
-💥 We can model just about anything! But how much do the specific data we choose influence what our models tell us? This is a story of data complexity. We explored the significant impacts of our data selection and data processing decisions on model outcomes.
-
 This is a repository for the manuscript: Hansen, S. E., M. J. Monfils, R. A. Hackett, R. T. Goebel, and A. K. Monfils. 2024. Data-centric species distribution modeling: Impacts of modeler decisions in a case study of invasive European frog-bit. Applications in Plant Sciences 12: e11573. https://doi.org/10.1002/aps3.11573.
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
